@@ -1,0 +1,9 @@
+p {
+    font-size: 10pt;
+    font-family: monospace;
+    white-space: pre;
+	font-weight: bold;
+}
+body {
+    background-color: #ffffff;
+} 
