@@ -8,6 +8,9 @@
 
 
 <body>
+<?php 
+include "pagename.php";
+echo $pagename;?>
 <?php include "header.php";?>
 <?php include "body.php";?>
 </body>

@@ -15,3 +15,12 @@ a:hover {
 	background-color: green;
 	color: black;
 }
+tr {
+	font-size: 10pt;
+    font-family: monospace;
+	font-weight: bold;
+	color: green;
+}
+span{
+	white-space: pre;
+}
