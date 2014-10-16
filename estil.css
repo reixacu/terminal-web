@@ -3,7 +3,15 @@ p {
     font-family: monospace;
     white-space: pre;
 	font-weight: bold;
+	color: green;
 }
 body {
-    background-color: #ffffff;
+    background-color: #000000;
 } 
+a {
+	color: green;
+}
+a:hover {
+	background-color: green;
+	color: black;
+}
