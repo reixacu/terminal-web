@@ -7,6 +7,6 @@ _______   ____ |__|__  ________    ____  __ __     ____  ____   _____
              \/         \/     \/     \/       \/     \/            \/ 
 
 			 
-   <a href=".">LINK 1</a>   <a href=".">LINK 2</a>   <a href=".">LINK 3</a>   <a href=".">LINK 4</a>   <a href=".">LINK 5</a>   <a href=".">LINK 6</a>   <a href=".">LINK 7</a>   
+   <a href="./fun.php">EMOJI FUN</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://telegram.me/reixacu">TELEGRAM</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/reixacu">GITHUB</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://info.minecat.cat">INFO. PAGE</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gamer.cat">GAMER.CAT</a>	
 </p>
 <br><br>
